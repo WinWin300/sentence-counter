@@ -1,0 +1,25 @@
+1.Start
+
+2. Set length = 0, words = 1, vowels = 0
+
+3. Read a character
+
+4. Repeat until the character is .:
+
+5. Add 1 to length
+
+6. If the character is a space, add 1 to words
+
+7. If the character is a vowel (a, e, i, o, u), add 1 to vowels
+
+8. Read the next character
+
+9. Add 1 to length (for the .)
+
+10.Print length
+
+11. Print words
+
+12. Print vowels
+
+13. End
